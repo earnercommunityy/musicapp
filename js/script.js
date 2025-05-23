@@ -1,4 +1,4 @@
-
+//start
 let resentSong = new Audio()
 let music;
 let currfolder;
